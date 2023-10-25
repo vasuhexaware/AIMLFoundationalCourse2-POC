@@ -1,0 +1,11 @@
+Sri Krishna is CEO of Hexaware
+Modules in tax application is Login User Prepare Tax 
+Roles in tax application is User Auditor Customer Support Executive Audit Helper Adminstrator
+Screens in tax application are Login Screen Add User Screen Prepare Audit Screen Manage User Screen
+features of tax application are collect-service-tax collect-gst collect-income-tax 
+"hardware requirements for the tax application system are An intranet or internet network. A processor with a minimum of 2.5 GHz processing capability. 1024 MB RAM. 100MB of hard disk space"""
+"software requirements for the tax application system are  A Windows vista, 7 or 8 operating system. SVGA graphics"""
+testing for the tax application consists of component testing system testing database testing interface testing integration testing unit testing functional testing performance testing.
+The database of the tax application consists of 24 tables. The tables are user table role table audit table summary table taxinfo table
+"functionality of the login screen is to ask the user to enter the user name and password to authenticate the user. On successful login, the screen will redirect the user to home page."
+"user story user registration: As a new user, I want to register for an account so that I can use the system. Acceptance criteria for the user story is The user must provide a valid email address. The user must create a username and password that are at least 8 characters long and contain at least one uppercase letter, one lowercase letter, and one number. The user must confirm their password. The user must agree to the terms of service. Additional Notes are: The user should be able to register for an account even if they do not have a valid email address. In this case, the user will be able to log in to the system using their username and password, but they will not be able to receive email notifications. The user should be able to reset their password if they forget it."
